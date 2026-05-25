@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-GitHub Repo Analyzer is a web tool that takes a public GitHub repository URL and presents detailed insights using the GitHub API. Built with React, Flask, and PostgreSQL—fully Dockerized and ready to run.
+GitHub Repo Analyzer is a web tool that takes a public GitHub repository URL and presents detailed insights using the GitHub API. Built with React, Flask, and PostgreSQL fully Dockerized and ready to run.
 
 This project demonstrates:
 
@@ -198,10 +198,4 @@ This project is optimized for a 7-minute demo covering:
 - Activity metrics - Simple health indicator
 - Rate limit detection - Real-world API handling
 
-## Notes
 
-- All features are explained and demonstrated in ~7 minutes
-- Code is clean, readable, and well-commented
-- Proper error handling for real-world scenarios
-- Docker setup is production-ready
-- No over-engineering—focused on core requirements and clarity
